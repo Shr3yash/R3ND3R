@@ -17,7 +17,8 @@
  [![Stargazers][stars-shield]][stars-url]
  [![Issues][issues-shield]][issues-url]
  [![MIT License][license-shield]][license-url]
- [![LinkedIn][linkedin-shield]][linkedin-url]
+ [![LinkedIn][linkedin-shield]][linkedin-url] (Shreya)
+  [![LinkedIn][linkedin-shield]][linkedin-url1] (Shreyash)
 </div>
 
 
@@ -31,12 +32,12 @@
 
   <h3 align="center"Molding, Handling and Accessing Multi-Dimensional Models</h3>
   <p>
-    <a href="https://github.com/DrCybernotix/R3ND3R"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shr3yash/R3ND3R"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DrCybernotix/R3ND3R">View Demo</a>
+    <a href="https://github.com/shr3yash/R3ND3R">View Demo</a>
     ·
-    <a href="https://github.com/DrCybernotix/R3ND3R/issues">Report Bug</a>
+    <a href="https://github.com/shr3yash/R3ND3R/issues">Report Bug</a>
     ·
     <a href="https://github.com/DrCybernotix/R3ND3R/pulls">Request Feature</a>
   </p>
@@ -78,7 +79,7 @@
 
 &emsp; Graphics are one of the most popular sources of data transfer nowadays, we can arguably term them as the easiest data to read, and herein we are dealing with the same, in our project R3ND3R, we are focusing more on making an impact and it is obviously going to set an indelible benchmark in learning, teaching, developing, designing and automation.
 <br>
-&emsp; The project which we have worked on aims to create an interface for visualizing any sort of three dimensional or two dimensional data for a better understanding of the models which we create and their physical attributes.
+&emsp; In this project I have worked alongside my colleague wherein we also published the project paper in a journal. The project which we have worked on aims to create an interface for visualizing any sort of three dimensional or two dimensional data for a better understanding of the models which we create and their physical attributes.
 
 Objectives:
 * To create an interface for visualizing any sort of multidimensional data for a better understanding of the models which we create. 
@@ -253,5 +254,6 @@ The list of resources I found helpful whilst makingg this project and would like
 [license-shield]: https://img.shields.io/github/license/DrCybernotix/R3ND3R.svg?style=for-the-badge
 [license-url]: https://github.com/DrCybernotix/R3ND3R/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://in.linkedin.com/in/shreyash-bhatkar-5bb904194
-[product-screenshot]: https://github.com/DrCybernotix/R3ND3R/blob/main/myLogos/R3ND3R_logo.png
+[linkedin-url]: https://www.linkedin.com/in/shreya-hiremath-8aa43b1b2
+[product-screenshot]: https://github.com/shr3yash/R3ND3R/blob/main/myLogos/R3ND3R_logo.png
+[linkedin-url1]: https://www.linkedin.com/in/shr3yash
